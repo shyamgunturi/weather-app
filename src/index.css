@@ -1,0 +1,27 @@
+/* index.css */
+
+/* Reset some default browser styling */
+/* index.css */
+
+/* Reset some default browser styling */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f3f4f6; /* Light background */
+  color: #333; /* Darker text color for readability */
+}
+
+/* Center root div content */
+#root {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+
